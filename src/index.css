@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.nav{
+  background: #8b0000 !important;
+  font-size: 16px;
+  
+}
+
+.nav li a{
+  font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+  font-size: 20px;
+}
+.nav li a:hover{
+  color: #fff;
+}
+#home{
+  text-align: center;
+  padding: 30px;
+  font-size: 30px;
+  border: 1px solid gray;
+  background: lightgray;
+  padding: 200px;
+}
+#home h1{
+  width: 50%;
+  float: left;
+  box-sizing: border-box;
+  border-left: 1px solid blue;
+}
+h2{
+  text-align: center;
+}

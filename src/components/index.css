@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.nav{
+  background: #8b0000 !important;
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}
+#sign{
+  background: lightgray;
+  font-size: 30px;
+  text-align: center;
+  padding: 100px;
+}
+input{
+  display: inline-block
+}
+#input{
+  width: 500px;
+  margin: auto;
+  border: 1px solid red;
+  padding: 50px;
+}
+#listArea{
+  background: skyblue;
+  width: 600px;
+  margin: auto;
+  padding: 100px;
+}
+#listArea li{
+  border: 1px solid gray;
+  text-align: left !important;
+
+}
+#doner-div{
+  background: lightgreen;
+  padding: 100px;
+}
+#doner-div input{
+  font-size: 20px;
+  margin: 10px;
+  border-top: 1px solid gray;
+  color: #000;
+  background: white;
+  padding: 5px;
+}
+#doner-div ol li{
+  border-bottom: 1px solid gray;
+  padding: 5px;
+}
+#doner-div button{
+  padding: 5px;
+}
